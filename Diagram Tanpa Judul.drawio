@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T11:55:09.647Z" agent="5.0 (Windows)" etag="qaggj2AnYMi2VJcZ_y2v" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-22T11:55:56.922Z" agent="5.0 (Windows)" etag="o9XsoleUSwJ-2UfZ96zS" version="14.2.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,9 @@
         <mxCell id="6HOrBpuACaCS4eQV2J5w-40" value="&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;Order details&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
           <mxGeometry x="33.75" y="580" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6HOrBpuACaCS4eQV2J5w-94" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
+          <mxGeometry x="117.5" y="328" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-41" value="Lane 4" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-0">
           <mxGeometry x="480" y="20" width="160" height="730" as="geometry" />
         </mxCell>
@@ -386,9 +389,6 @@
         </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6HOrBpuACaCS4eQV2J5w-0" source="6HOrBpuACaCS4eQV2J5w-65" target="6HOrBpuACaCS4eQV2J5w-18">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6HOrBpuACaCS4eQV2J5w-94" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="L0yQjiYWwsw-UEJJT2-9-1">
-          <mxGeometry x="500" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-95" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="L0yQjiYWwsw-UEJJT2-9-1">
           <mxGeometry x="250" y="690" width="20" height="20" as="geometry" />
