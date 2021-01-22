@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T12:00:26.477Z" agent="5.0 (Windows)" etag="vZRM3fIt4wTlUCMtPv1x" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-22T12:51:15.599Z" agent="5.0 (Windows)" etag="VMPa0PpT5jevQyVW4ick" version="14.2.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,16 @@
         <mxCell id="6HOrBpuACaCS4eQV2J5w-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
           <mxGeometry x="60" y="434" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6HOrBpuACaCS4eQV2J5w-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6HOrBpuACaCS4eQV2J5w-22" source="6HOrBpuACaCS4eQV2J5w-25" target="6HOrBpuACaCS4eQV2J5w-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="108" y="150" />
+              <mxPoint x="130" y="150" />
+              <mxPoint x="130" y="220" />
+              <mxPoint x="109" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-25" value="Payment Methode" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
           <mxGeometry x="32.5" y="70" width="100" height="60" as="geometry" />
         </mxCell>
@@ -164,7 +174,7 @@
         <mxCell id="6HOrBpuACaCS4eQV2J5w-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6HOrBpuACaCS4eQV2J5w-22" source="6HOrBpuACaCS4eQV2J5w-30" target="6HOrBpuACaCS4eQV2J5w-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HOrBpuACaCS4eQV2J5w-30" value="&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;OTP&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
+        <mxCell id="6HOrBpuACaCS4eQV2J5w-30" value="&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;OTP/Lihat NoRek&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
           <mxGeometry x="30" y="240" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-31" value="Request Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="6HOrBpuACaCS4eQV2J5w-22">
