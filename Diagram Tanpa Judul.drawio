@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T10:28:26.985Z" agent="5.0 (Windows)" etag="c1Fv2GuMvX7q_kcLevIu" version="14.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-23T10:36:05.643Z" agent="5.0 (Windows)" etag="rlyBpWyOLGmT1jKnuMBo" version="14.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-27" value="Payment Process" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="5a-QsX_JfFnNbfBxGMIE-24">
-          <mxGeometry x="32.5" y="70" width="100" height="60" as="geometry" />
+          <mxGeometry x="32.5" y="98" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5a-QsX_JfFnNbfBxGMIE-24" target="5a-QsX_JfFnNbfBxGMIE-42">
           <mxGeometry relative="1" as="geometry">
@@ -507,7 +507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-63" value="&lt;font style=&quot;font-size: 8px&quot; face=&quot;Verdana&quot;&gt;Report Payment and Transaction&lt;br&gt;&lt;/font&gt;&amp;nbsp;(mail)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;gradientColor=none;opacity=60;" vertex="1" parent="5a-QsX_JfFnNbfBxGMIE-24">
-          <mxGeometry x="29.38" y="170" width="106.25" height="70" as="geometry" />
+          <mxGeometry x="29.38" y="189" width="106.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-43" value="Workin" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3baqM82eOKSuiM91XYTY-1">
           <mxGeometry x="220" y="60" width="160" height="730" as="geometry" />
