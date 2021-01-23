@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T09:59:45.395Z" agent="5.0 (Windows)" etag="7B6uaPcRTSeWdBc84gXZ" version="14.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-23T10:02:10.177Z" agent="5.0 (Windows)" etag="kjMhP92MZF_F3-m4UPgN" version="14.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5a-QsX_JfFnNbfBxGMIE-43" source="5a-QsX_JfFnNbfBxGMIE-75" target="5a-QsX_JfFnNbfBxGMIE-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5a-QsX_JfFnNbfBxGMIE-75" value="Fail/not" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;opacity=60;" vertex="1" parent="5a-QsX_JfFnNbfBxGMIE-43">
+        <mxCell id="5a-QsX_JfFnNbfBxGMIE-75" value="Condition" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;opacity=60;" vertex="1" parent="5a-QsX_JfFnNbfBxGMIE-43">
           <mxGeometry x="37.5" y="380" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-41" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="5a-QsX_JfFnNbfBxGMIE-43">
