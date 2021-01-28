@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T09:22:14.121Z" agent="5.0 (Windows)" etag="MDACTyQOI0OzYO2JivB3" version="14.2.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-28T03:07:18.962Z" agent="5.0 (Windows)" etag="ESoWZ_EIcenFPmH_C7oa" version="14.2.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
         <mxCell id="6HOrBpuACaCS4eQV2J5w-5" value="User" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="6HOrBpuACaCS4eQV2J5w-3" vertex="1">
           <mxGeometry x="30" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6HOrBpuACaCS4eQV2J5w-6" value="Order Details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="6HOrBpuACaCS4eQV2J5w-3" vertex="1">
+        <mxCell id="6HOrBpuACaCS4eQV2J5w-6" value="Order Details/Chart" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="6HOrBpuACaCS4eQV2J5w-3" vertex="1">
           <mxGeometry x="30" y="500" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6HOrBpuACaCS4eQV2J5w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="6HOrBpuACaCS4eQV2J5w-3" source="6HOrBpuACaCS4eQV2J5w-8" target="6HOrBpuACaCS4eQV2J5w-10" edge="1">
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7jfjsndHGB2GpePiLxHC" name="Flow Midtrans">
-    <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="3baqM82eOKSuiM91XYTY-0" />
         <mxCell id="3baqM82eOKSuiM91XYTY-1" parent="3baqM82eOKSuiM91XYTY-0" />
@@ -487,7 +487,7 @@
         <mxCell id="5a-QsX_JfFnNbfBxGMIE-58" value="Homepage" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="5a-QsX_JfFnNbfBxGMIE-12" vertex="1">
           <mxGeometry x="30" y="660" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LzJWuwjoBNv-9IX5vQvH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5a-QsX_JfFnNbfBxGMIE-12" source="5a-QsX_JfFnNbfBxGMIE-79" target="5a-QsX_JfFnNbfBxGMIE-14">
+        <mxCell id="LzJWuwjoBNv-9IX5vQvH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5a-QsX_JfFnNbfBxGMIE-12" source="5a-QsX_JfFnNbfBxGMIE-79" target="5a-QsX_JfFnNbfBxGMIE-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="599" />
