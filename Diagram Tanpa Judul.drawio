@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T19:54:36.915Z" agent="5.0 (Windows)" etag="6rF6X8KKV0uYa3KsNaLC" version="14.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-31T20:03:13.610Z" agent="5.0 (Windows)" etag="gUsoSvVJz_B7YX60xPPD" version="14.2.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="880" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -777,6 +777,14 @@
         <mxCell id="8OKg59taJMjOkJGgI261-8" value="Cart" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-3">
           <mxGeometry x="35" y="430" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-62" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Receive &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;waiting payment&lt;/font&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;strokeColor=#000000;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-3">
+          <mxGeometry x="28" y="630" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-63" value="" style="html=1;shape=message;outlineConnect=0;" vertex="1" parent="8OKg59taJMjOkJGgI261-62">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7jAf6VRYLG6jYIv1c-hn-15" value="Lane 2" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-0">
           <mxGeometry x="160" y="20" width="167.75" height="730" as="geometry" />
         </mxCell>
@@ -921,6 +929,14 @@
             <Array as="points">
               <mxPoint x="300" y="250" />
               <mxPoint x="300" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="7jAf6VRYLG6jYIv1c-hn-0" source="8OKg59taJMjOkJGgI261-55" target="8OKg59taJMjOkJGgI261-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="171" />
+              <mxPoint x="340" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
