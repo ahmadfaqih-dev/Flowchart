@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:04:29.832Z" agent="5.0 (Windows)" etag="aMWrEsW5oNszQbwY2Gs-" version="14.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:31:26.152Z" agent="5.0 (Windows)" etag="W975hW-F2t-V2eXPYmFX" version="14.2.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7jfjsndHGB2GpePiLxHC" name="Flow Midtrans">
-    <mxGraphModel dx="1021" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="3baqM82eOKSuiM91XYTY-0" />
         <mxCell id="3baqM82eOKSuiM91XYTY-1" parent="3baqM82eOKSuiM91XYTY-0" />
@@ -643,7 +643,7 @@
         <mxCell id="Gk8L6c7ocQkqM_coIFRC-13" value="Memcache/Reddis" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.storage;" parent="Gk8L6c7ocQkqM_coIFRC-1" vertex="1">
           <mxGeometry x="197.29999999999998" y="760" width="83" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gk8L6c7ocQkqM_coIFRC-14" value="DB2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" parent="Gk8L6c7ocQkqM_coIFRC-1" vertex="1">
+        <mxCell id="Gk8L6c7ocQkqM_coIFRC-14" value="DB2 backup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Database_General.svg;" parent="Gk8L6c7ocQkqM_coIFRC-1" vertex="1">
           <mxGeometry x="466.3" y="761" width="60.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gk8L6c7ocQkqM_coIFRC-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/120_Expedited_Ssl_logo_logos-128.png" parent="Gk8L6c7ocQkqM_coIFRC-1" vertex="1">
@@ -710,11 +710,14 @@
         <mxCell id="1gQfcAq8LOBYqQGHYyul-32" value="Remote Access" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Gk8L6c7ocQkqM_coIFRC-1">
           <mxGeometry x="549" y="533" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kLsXK48rwOaHwWpJd-vO-0" value="sync" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Gk8L6c7ocQkqM_coIFRC-1">
+          <mxGeometry x="406.7" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="h-q64NJs9w-MbxMFemAy" name="Page-5">
-    <mxGraphModel dx="330" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="vBP2gk-1h8ruAsLBfDAV-0" />
         <mxCell id="vBP2gk-1h8ruAsLBfDAV-1" parent="vBP2gk-1h8ruAsLBfDAV-0" />
@@ -848,7 +851,7 @@
         <mxCell id="7jAf6VRYLG6jYIv1c-hn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7jAf6VRYLG6jYIv1c-hn-22" source="7jAf6VRYLG6jYIv1c-hn-34" target="7jAf6VRYLG6jYIv1c-hn-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7jAf6VRYLG6jYIv1c-hn-34" value="Confrm by email" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-22">
+        <mxCell id="7jAf6VRYLG6jYIv1c-hn-34" value="Confrm by email to buyer and seller" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-22">
           <mxGeometry x="32.5" y="500" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7jAf6VRYLG6jYIv1c-hn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="7jAf6VRYLG6jYIv1c-hn-22" source="7jAf6VRYLG6jYIv1c-hn-32" target="7jAf6VRYLG6jYIv1c-hn-34">
