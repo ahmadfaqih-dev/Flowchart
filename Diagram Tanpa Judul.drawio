@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:31:26.152Z" agent="5.0 (Windows)" etag="W975hW-F2t-V2eXPYmFX" version="14.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:32:28.345Z" agent="5.0 (Windows)" etag="0WnkD9gpvt8nMaxGCALC" version="14.2.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="868" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -670,8 +670,13 @@
         <mxCell id="1gQfcAq8LOBYqQGHYyul-0" value="VM WebServer" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="Gk8L6c7ocQkqM_coIFRC-1">
           <mxGeometry x="194.00000000000003" y="600" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1gQfcAq8LOBYqQGHYyul-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="Gk8L6c7ocQkqM_coIFRC-1" source="1gQfcAq8LOBYqQGHYyul-1" target="Gk8L6c7ocQkqM_coIFRC-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1gQfcAq8LOBYqQGHYyul-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="Gk8L6c7ocQkqM_coIFRC-1" source="1gQfcAq8LOBYqQGHYyul-1" target="Gk8L6c7ocQkqM_coIFRC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="362" y="740" />
+              <mxPoint x="239" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1gQfcAq8LOBYqQGHYyul-1" value="&lt;div&gt;VM Apps&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="Gk8L6c7ocQkqM_coIFRC-1">
           <mxGeometry x="316.8" y="600" width="90" height="100" as="geometry" />
