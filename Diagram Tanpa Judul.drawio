@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T19:47:08.745Z" agent="5.0 (Windows)" etag="BRRPODZiRXWpf3Eovx_I" version="14.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-31T19:52:55.033Z" agent="5.0 (Windows)" etag="PAGRm9VXPySvqXx-D2QS" version="14.2.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flow Seller">
     <mxGraphModel dx="880" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,8 +884,19 @@
         <mxCell id="8OKg59taJMjOkJGgI261-55" value="&lt;div&gt;Transaction&lt;/div&gt;&lt;div&gt;Details&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#000000;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-22">
           <mxGeometry x="28.25" y="119" width="97.75" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="7jAf6VRYLG6jYIv1c-hn-22" source="8OKg59taJMjOkJGgI261-57" target="8OKg59taJMjOkJGgI261-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8OKg59taJMjOkJGgI261-57" value="Order Details" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-22">
           <mxGeometry x="33" y="286" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-59" value="Process" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;strokeColor=#82b366;gradientColor=#97d077;fillColor=#d5e8d4;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-22">
+          <mxGeometry x="32" y="360" width="92" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKg59taJMjOkJGgI261-60" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;align=left;outlineConnect=0;" vertex="1" parent="8OKg59taJMjOkJGgI261-59">
+          <mxGeometry x="1" width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="-15" y="10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7jAf6VRYLG6jYIv1c-hn-43" value="Lane 4" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7jAf6VRYLG6jYIv1c-hn-0">
           <mxGeometry x="487.75" y="20" width="160" height="730" as="geometry" />
